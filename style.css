@@ -191,7 +191,8 @@ header strong {
 @media screen and (max-width:768px) {
 	.header-menu-list li {
   writing-mode: vertical-rl;
-  }
+}
+	
   .contents_list li {
     padding-top: 25px;
     width: 100%;
